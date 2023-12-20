@@ -1,8 +1,8 @@
 # aotycount
 
-A small script to count the common albums in the album of the year lists recorded in [@hubgit](https://github.com/hubgit)'s https://aoty.hubmed.org/. The basic, and perhaps flawed, idea is that the more lists an album is on, the higher priority I should give to checking it out, to see what all the fuss is about.
+A small script to count the common albums in the album of the year lists recorded in [@hubgit]'s https://aoty.hubmed.org/. The basic, and perhaps flawed, idea is that the more lists an album is on, the higher priority I should give to checking it out, to see what all the fuss is about.
 
-(Thanks for the lists @hubgit!)
+(Thanks for the lists [@hubgit]!)
 
 ```
 $ ./aotycount.py 2023
@@ -1147,3 +1147,6 @@ $ ./aotycount.py 2023
 [1] Altin Gün - Ask [Rough Trade]
 [1] Black Pumas - Chronicles of a Diamond [Rough Trade]
 [1] Durand Jones - Wait Til I Get Over [Rough Trade]
+```
+
+[@hubgit]: https://github.com/hubgit
