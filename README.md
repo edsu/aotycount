@@ -1,6 +1,8 @@
 # aotycount
 
-Count common albums in best of lists recorded in [@hubgit](https://github.com/hubgit)'s https://aoty.hubmed.org/. The basic idea is that the more lists that contain the album, the higher precedence I should give to listening to it.
+A small script to count the common albums in the album of the year lists recorded in [@hubgit](https://github.com/hubgit)'s https://aoty.hubmed.org/. The basic and perhaps flawed idea is that the more lists that contain the album, the higher priority I should give to checking it out to see what all the fuss is about.
+
+(Thanks for the lists @hubgit!)
 
 ```
 $ ./aotycount.py 2023
